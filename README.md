@@ -22,7 +22,7 @@
 const diva = {
     role: "Full Stack Developer",
     location: "Indonesia 🇮🇩",
-    currentFocus: ["Web Development", "AI & Machine Learning", "Technical Writing"],
+    currentFocus: ["Full Stack Web Developer", "IT Support"],
     hobbies: ["Gaming 🎮", "Reading Tech Articles 📖", "Building Cool Stuff 💻"],
     funFact: "I turn coffee into code ☕→💻"
 };
@@ -30,12 +30,6 @@ const diva = {
 
 <div align="center">
   
-### 💼 What I Do
-
-🔭 Building robust **web applications** with modern tech stack  
-🌱 Exploring **AI/ML** and creating technical content  
-⚡ Contributing to **open-source** projects  
-🎯 Always learning and improving my skills  
 
 </div>
 
